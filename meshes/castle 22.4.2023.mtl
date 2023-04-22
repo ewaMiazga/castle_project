@@ -1,0 +1,502 @@
+# Blender 3.4.1 MTL File: 'castle 22.4.2023.blend'
+# www.blender.org
+
+newmtl Castle_Structures.002
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.003
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.004
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.005
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.006
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.007
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.008
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.009
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.010
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.011
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.012
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.013
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.014
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.015
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.016
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.017
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.019
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.020
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.021
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.022
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.023
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.024
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.025
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.026
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.027
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.028
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.029
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.030
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.031
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Towers.001
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Towers_BaseColor.png
+
+newmtl Castle_Towers.002
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Towers_BaseColor.png
+
+newmtl Castle_Towers.003
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Towers_BaseColor.png
+
+newmtl Castle_Towers.004
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Towers_BaseColor.png
+
+newmtl Castle_Towers.005
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Towers_BaseColor.png
+
+newmtl Castle_Towers.006
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Towers_BaseColor.png
+
+newmtl Castle_Towers.007
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Towers_BaseColor.png
+
+newmtl Castle_Walls.001
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Walls_BaseColor.png
+
+newmtl Castle_Walls.004
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Walls_BaseColor.png
+
+newmtl Castle_Walls.005
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Walls_BaseColor.png
+
+newmtl Castle_Walls.006
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Walls_BaseColor.png
+
+newmtl Castle_Walls.007
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Walls_BaseColor.png
+
+newmtl Castle_Walls.008
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Walls_BaseColor.png
+
+newmtl Castle_Walls.009
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Walls_BaseColor.png
+
+newmtl Castle_Walls.010
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Walls_BaseColor.png
+
+newmtl Castle_Walls.011
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Walls_BaseColor.png
+
+newmtl Castle_Walls.013
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Walls_BaseColor.png
+
+newmtl Castle_Walls.015
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Walls_BaseColor.png
+
+newmtl Castle_Walls.016
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Walls_BaseColor.png
+
+newmtl Castle_Walls.017
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Walls_BaseColor.png
+
+newmtl Castle_Walls.018
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ewa.miazga/OneDrive - Politechnika Warszawska/Pulpit/studies/SEM 4/Introduction to Computer Graphics/RenderCrate-Medieval_Castle_Kit_1K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Walls_BaseColor.png
